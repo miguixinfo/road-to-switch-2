@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 URLS = {
-    "GAME": "https://www.game.es/HARDWARE/PACK-CONSOLA/NINTENDO-SWITCH-2/NINTENDO-SWITCH-2-MARIO-KART-WORLD/243869",
+    "GAME": "https://www.game.es/VIDEOJUEGOS/DEPORTES/PLAYSTATION-5/FIFA-22/191606",
     "MEDIAMARKT": "https://www.mediamarkt.es/es/product/_mando-sony-dualsense-v2-para-playstation-5-bluetooth-retroalimentacion-haptica-blanco-1565162.html",
     "ELCORTINGLES": "https://www.elcorteingles.es/videojuegos/A55296687-consola-nintendo-switch-2/"
 }
